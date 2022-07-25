@@ -1,0 +1,2 @@
+# starnft
+Arieotech Hackathon project
